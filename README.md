@@ -6,7 +6,7 @@ A robust c# GUI tool to export Piwigo albums and images via SSH. Reconstructs th
 **The ultimate tool to save all albums and images from your Piwigo server.**
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Language](https://img.shields.io/badge/Language-PowerShell-5391FE)
+![Language](https://img.shields.io/badge/Language-C%23-239120)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📖 About
