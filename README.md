@@ -25,6 +25,7 @@ It solves common issues like "flat" file structures in the `upload` folder and b
 * **📜 Integrated Logging:** Built-in SQLite log viewer to track every transfer.
 * **📜 Integrated Logging:** Databases (logs and credentials) are encrypted for your security
 * **🌍 Multi-Language:** Live switching between English 🇺🇸 and German 🇩🇪.
+* **Uninstaller included**
 
 ## 🚀 Prerequisites
 
@@ -36,13 +37,14 @@ It solves common issues like "flat" file structures in the `upload` folder and b
 
 ## ⚙️ Usage
 
-1.  Download the `PiwigoExportGUI.exe` file.
-2.  Right-click the file and select **"Run Administrator"**.
-3.  **Configuration:**
+1.  Download .zip file then extract.
+2.  Run the installer
+3.  Right-click the file and select **"Run Administrator"**.
+4.  **Configuration:**
     * **SSH:** Enter your server IP, SSH user, and select your Private Key (OpenSSH format recommended).
     * **Paths:** Select where to save files locally and where Piwigo is located on the server (e.g., `/var/www/html/piwigo`).
     * **Database:** Enter your DB credentials (found in your server's `local/config/database.inc.php`).
-4.  Click **🚀 START EXPORT**.
+5.  Click **🚀 START EXPORT**.
 
 ## 📝 Configuration Details
 
