@@ -28,10 +28,10 @@ It solves common issues like "flat" file structures in the `upload` folder and b
 
 ## 🚀 Prerequisites
 
-* **OS:** Windows 10 or Windows 11.
+* **OS:** Windows 10 or Windows 11 | 64BIT only
 * **SSH:** OpenSSH Client (enabled by default on Windows).
 * **Admin:** Administrator / Root access is needed
-* **.NET 8.0 SDK (v8.0.416)** needed --> https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.416-windows-x64-installer
+* **.NET 8.0 Runtime**
 
 ## ⚙️ Usage
 
