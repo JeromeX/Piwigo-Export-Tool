@@ -1,5 +1,5 @@
 # Piwigo-Export-Tool
-A robust c# GUI tool to export Piwigo albums and images via SSH. Reconstructs the original directory structure from the MySQL database, fixes encoding errors, and supports incremental backups.
+A robust C# GUI tool to export Piwigo albums and images via SSH. Reconstructs the original directory structure from the MySQL database, fixes encoding errors, and supports incremental backups.
 
 # 📸 Piwigo SSH Export Tool
 
