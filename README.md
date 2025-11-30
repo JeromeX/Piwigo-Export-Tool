@@ -29,6 +29,7 @@ It solves common issues like "flat" file structures in the `upload` folder and b
 ## 🚀 Prerequisites
 
 * **OS:** Windows 10 or Windows 11 | 64BIT only
+* **DISC:** ~ 160MB Space
 * **SSH:** OpenSSH Client (enabled by default on Windows).
 * **Admin:** Administrator / Root access is needed
 * **.NET 8.0 Runtime**
