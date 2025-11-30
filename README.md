@@ -23,6 +23,7 @@ It solves common issues like "flat" file structures in the `upload` folder and b
 * **⚡ Incremental Backup:** Checks for existing files to skip duplicates (configurable).
 * **📦 ZIP Archiving:** Optional feature to zip every exported album automatically.
 * **📜 Integrated Logging:** Built-in SQLite log viewer to track every transfer.
+* **📜 Integrated Logging:** Databases (logs and credentials) are encrypted for your security
 * **🌍 Multi-Language:** Live switching between English 🇺🇸 and German 🇩🇪.
 
 ## 🚀 Prerequisites
