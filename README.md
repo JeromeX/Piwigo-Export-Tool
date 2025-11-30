@@ -1,5 +1,5 @@
 # Piwigo-Export-Tool
-A robust PowerShell GUI tool to export Piwigo albums and images via SSH. Reconstructs the original directory structure from the MySQL database, fixes encoding errors, and supports incremental backups.
+A robust c# GUI tool to export Piwigo albums and images via SSH. Reconstructs the original directory structure from the MySQL database, fixes encoding errors, and supports incremental backups.
 
 # 📸 Piwigo SSH Export Tool
 
@@ -31,11 +31,12 @@ It solves common issues like "flat" file structures in the `upload` folder and b
 * **OS:** Windows 10 or Windows 11.
 * **SSH:** OpenSSH Client (enabled by default on Windows).
 * **Admin:** Administrator / Root access is needed
+* **.NET 8.0 SDK (v8.0.416)** needed --> https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.416-windows-x64-installer
 
 ## ⚙️ Usage
 
-1.  Download the `PiwigoExportGUI.ps1` file.
-2.  Right-click the file and select **"Run with PowerShell"**.
+1.  Download the `PiwigoExportGUI.exe` file.
+2.  Right-click the file and select **"Run Administrator"**.
 3.  **Configuration:**
     * **SSH:** Enter your server IP, SSH user, and select your Private Key (OpenSSH format recommended).
     * **Paths:** Select where to save files locally and where Piwigo is located on the server (e.g., `/var/www/html/piwigo`).
